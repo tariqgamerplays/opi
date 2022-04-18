@@ -1,2 +1,3 @@
-def sayshush():
-  print("shuuuushh")
+class sayshush():
+  def doshush:
+    print("shuuuushh")
