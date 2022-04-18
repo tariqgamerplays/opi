@@ -1,0 +1,2 @@
+def sayshush():
+  print("shuuuushh")
